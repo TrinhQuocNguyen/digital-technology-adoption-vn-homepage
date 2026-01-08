@@ -1,5 +1,5 @@
 # ORITRIP
-Link: https://trinhquocnguyen.github.io/oritrip-homepage/
+Link: https://trinhquocnguyen.github.io/digital-technology-adoption-vn-homepage/
 
 
 
